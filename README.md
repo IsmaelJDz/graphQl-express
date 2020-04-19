@@ -1,4 +1,4 @@
-# App de podcast
+# Api Graphql
 
 Esta es una aplicacion creada con el framework express y graphql para poder crear estudiantes y cursos
 
