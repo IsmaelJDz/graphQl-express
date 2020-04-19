@@ -1,6 +1,6 @@
 # Api Graphql
 
-Esta es una aplicacion creada con el framework express y graphql para poder crear estudiantes y cursos
+Esta es una aplicacion creada con el framework express y graphql para poder crear estudiantes y cursos usando MongoDB como base de datos.
 
 ## Cómo funciona?
 
